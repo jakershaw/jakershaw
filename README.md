@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm James - this is my personal github where I showcase projects I've worked on to build my technical skills.
+
+My career background is primarily in finance but I've always enjoyed learning about and creating more technical projects. My Masters degree in Engineering and past experience working in a Data Science Consultancy have been very helpful in that respect!
+
+In addition to coding projects I also write, produce and perform songs (original songs and covers), so some of the projects showcased relate to the technical aspects of that - see one of my live performances!
+youtube.com/watch?time_continue=1&v=Uc56ojLlkio&embeds_referring_euri=http%3A%2F%2Flocalhost%3A5000%2F&source_ve_path=Mjg2NjY
 
 <!--
 **jakershaw/jakershaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
