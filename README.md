@@ -1,4 +1,6 @@
-## Hi, I'm James - this is my personal github where I showcase projects I've worked on to build my technical skills.
+## Hi, I'm James!
+
+This is my personal github where I showcase projects I've worked on to build my technical skills.
 
 My career background is primarily in finance but I've always enjoyed learning about and creating more technical projects. My Masters degree in Engineering and past experience working in a Data Science Consultancy have been very helpful in that respect!
 
